@@ -1,14 +1,22 @@
 #include <avr\io.h>
+#include <Atmega328P.h>
 #include <avrlib.h>
+#include <RegisterAccess.h>
 #include <util\delay.h>
-
 #include <inttypes.h>
+#include <avr/interrupt.h>
 
 int main(void)
 {
-	Usart_Init();
+	Usart_Init(250000);
 	
-	
+	while (True) 
+	{
+		TRACE("hello world");
+		_delay_ms(1000);
+	}
+	return 0;
+
 	uint8_t i = 10;
 	for (; i < 20; i++)
 	{
