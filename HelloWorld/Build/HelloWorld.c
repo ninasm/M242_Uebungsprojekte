@@ -1,21 +1,30 @@
 #include <avr\io.h>
+#include <Atmega328P.h>
 #include <avrlib.h>
+#include <RegisterAccess.h>
+#define F_CPU 16000000
 #include <util\delay.h>
-
 #include <inttypes.h>
+#include <avr/interrupt.h>
 
 int main(void)
 {
-	Usart_Init();
+	Usart_Init(250000);
 	
-	
-	uint8_t i = 10;
-	for (; i < 20; i++)
-	{
-		Usart_Trace1(1,(uint8_t)((uint8_t)i));
-		Usart_Trace3(2,(uint8_t)((uint8_t)i), (uint8_t)((uint16_t)(i*2)>>8),(uint8_t)((uint8_t)i*2));
-		Usart_Trace3(3,(uint8_t)((uint8_t)i), (uint8_t)((uint16_t)(i * i)>>8),(uint8_t)((uint8_t)i * i));
+	while (True) 
+	{
+		Usart_Trace0(1);
 		_delay_ms(1000);
 	}
 	return 0;
+
+	/*uint8_t i = 10;
+	for (; i < 20; i++)
+	{
+		TRACE("Hello World %8:", i);
+		TRACE("i times 2 I = %8, i*2=%16:", i, i*2);
+		TRACE("i square I = %8, i*2=%16:", i, i * i);
+		_delay_ms(1000);
+	}
+	return 0;*/
 }

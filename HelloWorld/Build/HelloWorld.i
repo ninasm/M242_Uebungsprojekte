@@ -1,20 +1,20 @@
-# 1 "D:\\GIBZ\\4.Semester\\M242\\prj\\helloworld\\Build\\HelloWorld.c"
-# 1 "D:\\GIBZ\\4.Semester\\M242\\PRJ\\HelloWorld\\Build//"
+# 1 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\HelloWorld\\Build\\HelloWorld.c"
+# 1 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\HelloWorld\\Build//"
 # 1 "<built-in>"
 # 1 "<command-line>"
-# 1 "D:\\GIBZ\\4.Semester\\M242\\prj\\helloworld\\Build\\HelloWorld.c"
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 1 3
-# 99 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 3
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\sfr_defs.h" 1 3
-# 126 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\sfr_defs.h" 3
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\inttypes.h" 1 3
-# 37 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\inttypes.h" 3
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\lib\\gcc\\avr\\5.4.0\\include\\stdint.h" 1 3 4
-# 9 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\lib\\gcc\\avr\\5.4.0\\include\\stdint.h" 3 4
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 1 3 4
-# 125 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 3 4
+# 1 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\HelloWorld\\Build\\HelloWorld.c"
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 1 3
+# 99 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 3
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\sfr_defs.h" 1 3
+# 126 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\sfr_defs.h" 3
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\inttypes.h" 1 3
+# 37 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\inttypes.h" 3
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\lib\\gcc\\avr\\5.4.0\\include\\stdint.h" 1 3 4
+# 9 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\lib\\gcc\\avr\\5.4.0\\include\\stdint.h" 3 4
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 1 3 4
+# 125 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 3 4
 
-# 125 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 3 4
+# 125 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 3 4
 typedef signed int int8_t __attribute__((__mode__(__QI__)));
 typedef unsigned int uint8_t __attribute__((__mode__(__QI__)));
 typedef signed int int16_t __attribute__ ((__mode__ (__HI__)));
@@ -24,14 +24,14 @@ typedef unsigned int uint32_t __attribute__ ((__mode__ (__SI__)));
 
 typedef signed int int64_t __attribute__((__mode__(__DI__)));
 typedef unsigned int uint64_t __attribute__((__mode__(__DI__)));
-# 146 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 3 4
+# 146 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 3 4
 typedef int16_t intptr_t;
 
 
 
 
 typedef uint16_t uintptr_t;
-# 163 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 3 4
+# 163 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 3 4
 typedef int8_t int_least8_t;
 
 
@@ -73,7 +73,7 @@ typedef int64_t int_least64_t;
 
 
 typedef uint64_t uint_least64_t;
-# 217 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 3 4
+# 217 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 3 4
 typedef int8_t int_fast8_t;
 
 
@@ -115,85 +115,203 @@ typedef int64_t int_fast64_t;
 
 
 typedef uint64_t uint_fast64_t;
-# 277 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 3 4
+# 277 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\stdint.h" 3 4
 typedef int64_t intmax_t;
 
 
 
 
 typedef uint64_t uintmax_t;
-# 10 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\lib\\gcc\\avr\\5.4.0\\include\\stdint.h" 2 3 4
-# 38 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\inttypes.h" 2 3
-# 77 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\inttypes.h" 3
+# 10 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\lib\\gcc\\avr\\5.4.0\\include\\stdint.h" 2 3 4
+# 38 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\inttypes.h" 2 3
+# 77 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\inttypes.h" 3
 typedef int32_t int_farptr_t;
 
 
 
 typedef uint32_t uint_farptr_t;
-# 127 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\sfr_defs.h" 2 3
-# 100 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
-# 244 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 3
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\iom32.h" 1 3
-# 720 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\iom32.h" 3
-       
-# 721 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\iom32.h" 3
+# 127 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\sfr_defs.h" 2 3
+# 100 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
+# 272 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 3
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\iom328p.h" 1 3
+# 273 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
+# 627 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 3
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\portpins.h" 1 3
+# 628 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
 
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-# 245 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
-# 627 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 3
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\portpins.h" 1 3
-# 628 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\common.h" 1 3
+# 630 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
 
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\common.h" 1 3
-# 630 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
-
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\version.h" 1 3
-# 632 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\version.h" 1 3
+# 632 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
 
 
 
 
 
 
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\fuse.h" 1 3
-# 248 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\fuse.h" 3
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\fuse.h" 1 3
+# 239 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\fuse.h" 3
 typedef struct
 {
     unsigned char low;
     unsigned char high;
+    unsigned char extended;
 } __fuse_t;
-# 639 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
+# 639 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
 
 
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\lock.h" 1 3
-# 642 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
-# 2 "D:\\GIBZ\\4.Semester\\M242\\prj\\helloworld\\Build\\HelloWorld.c" 2
-# 1 "D:\\GIBZ\\4.Semester\\M242\\avr\\ToolChain\\AvrLib\\include/avrlib.h" 1
-# 25 "D:\\GIBZ\\4.Semester\\M242\\avr\\ToolChain\\AvrLib\\include/avrlib.h"
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\lock.h" 1 3
+# 642 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 2 3
+# 2 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\HelloWorld\\Build\\HelloWorld.c" 2
+# 1 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h" 1
+# 28 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h"
 
-# 25 "D:\\GIBZ\\4.Semester\\M242\\avr\\ToolChain\\AvrLib\\include/avrlib.h"
+# 28 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h"
+typedef enum
+{
+    Idle=0,
+    AdcNoiseRed=1,
+    PowerDown=2,
+    PowerSave=3,
+    StandBy=6,
+    ExtStandBy=7,
+} SleepMode;
+# 73 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h"
+typedef struct GPIO_T_tag
+{
+    volatile uint8_t PIN;
+    volatile uint8_t DDR;
+    volatile uint8_t PORT;
+} GPIO_T;
+# 135 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h"
+typedef enum
+{
+    DdrInput=0,
+    DdrOutput=1,
+} DataDirection_T;
+
+typedef struct TCNT8_T_tag
+{
+    volatile uint8_t TCCRA;
+    volatile uint8_t TCCRB;
+    volatile uint8_t TCNT;
+    volatile uint8_t OCRA;
+    volatile uint8_t OCRB;
+} TCNT8_T;
+# 170 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h"
+typedef enum
+{
+    Normal=0,
+    PwmNormal=1,
+    ClrTmrOnCmpMatch=2,
+    FastPwm=3,
+} WaveFormGenerationModes;
+# 213 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h"
+typedef enum
+{
+    CS_Off=0,
+    CS_Div1=1,
+    CS_Div8=2,
+    CsT1_Div64=3,
+    CsT1_Div256=4,
+    CsT1_Div1024=5,
+    CsT1_T0Falling=6,
+    CsT1_T0Raising=7,
+    CsT2_Div32=3,
+    CsT2_Div64=4,
+    CsT2_Div128=5,
+    CsT2_Div256=6,
+    CsT2_Div1024=7,
+} ClkSelect;
+
+typedef struct TCNT16_T_tag
+{
+    volatile uint8_t TCCRA;
+    volatile int8_t TCCRB;
+    volatile uint8_t TCCRC;
+    volatile uint8_t Reserved;
+    volatile uint16_t TCNT;
+    volatile uint16_t ICR;
+    volatile uint16_t OCRA;
+    volatile uint16_t ORCB;
+} TCNT16_T;
+# 332 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h"
+typedef struct USART_T_tag
+{
+    volatile uint8_t UCSRA;
+    volatile uint8_t UCSRB;
+    volatile uint8_t UCSRC;
+    volatile uint8_t Reserved;
+    volatile uint16_t UBBR;
+    volatile uint8_t UDR;
+} USART_T;
+# 488 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h"
+typedef enum
+{
+    NoParityCheck=0,
+    EvenParity=2,
+    OddParity=3,
+} UART_ParityMode;
+
+typedef enum
+{
+    Asynchronous=0,
+    Synchronous=1,
+    SpiMaster=3,
+} UART_ModeSelect;
+# 509 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h"
+typedef struct ADC_T_tag
+{
+    volatile uint16_t Data;
+    volatile uint8_t Adcsra;
+    volatile uint8_t Adcsrb;
+    volatile uint8_t Admux;
+    volatile uint8_t Reserved;
+    volatile uint8_t Didr0;
+    volatile uint8_t Didr1;
+} ADC_T;
+# 561 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h"
+typedef enum
+{
+    AdcDiv2=1,
+    AdcDiv4=2,
+    AdcDiv8=3,
+    AdcDiv16=4,
+    AdcDiv32=5,
+    AdcDiv64=6,
+    AdcDiv128=7,
+} AdcPrescaler;
+# 600 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h"
+typedef enum
+{
+    FreeRunning=0,
+    AnalogComparator=1,
+    ExtInterrupt=2,
+    Tc0Compare=3,
+    Tc0Overflow=4,
+    Tc1Compare=5,
+    Tc1Overflow=6,
+    Tc1Capture=6,
+} AD_AutoTriggerSource;
+# 640 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/Atmega328P.h"
+typedef enum
+{
+    MuxAdc0=0,
+    MuxAdc1=1,
+    MuxAdc2=2,
+    MuxAdc3=3,
+    MuxAdc4=4,
+    MuxAdc5=5,
+    MuxAdc6=6,
+    MuxAdc7=7,
+    MuxTemp=8,
+    Mux11V=14,
+    MuxGnd=15,
+} AnalogChannelSelection;
+# 3 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\HelloWorld\\Build\\HelloWorld.c" 2
+# 1 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/avrlib.h" 1
+# 25 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/avrlib.h"
 typedef enum
 {
  False = 0,
@@ -252,14 +370,14 @@ typedef enum
 
 
  typedef void (*StateHandler)(const Message* msg);
-# 91 "D:\\GIBZ\\4.Semester\\M242\\avr\\ToolChain\\AvrLib\\include/avrlib.h"
+# 91 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/avrlib.h"
  typedef struct Fsm_tag
  {
      struct Fsm_tag* Next;
      uint8_t RxMask;
      StateHandler CurrentState;
  }Fsm;
-# 108 "D:\\GIBZ\\4.Semester\\M242\\avr\\ToolChain\\AvrLib\\include/avrlib.h"
+# 108 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/avrlib.h"
 void RegisterFsm(Fsm* fsm);
 
 
@@ -269,15 +387,15 @@ void RegisterFsm(Fsm* fsm);
 
 
 void SetState(Fsm* fsm, StateHandler state);
-# 127 "D:\\GIBZ\\4.Semester\\M242\\avr\\ToolChain\\AvrLib\\include/avrlib.h"
+# 127 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/avrlib.h"
 void SendMessage(uint8_t prio, uint8_t id, uint8_t msgLow, uint8_t msgHigh);
-# 137 "D:\\GIBZ\\4.Semester\\M242\\avr\\ToolChain\\AvrLib\\include/avrlib.h"
+# 137 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/avrlib.h"
 Bool DispatchEvent(void);
 
 
 
 
-void Usart_Init(void);
+void Usart_Init(uint32_t baudrate);
 
 
 
@@ -302,16 +420,19 @@ void Usart_PutChar(char ch);
 void EnterAtomic(void);
 
 void LeaveAtomic(void);
-# 3 "D:\\GIBZ\\4.Semester\\M242\\prj\\helloworld\\Build\\HelloWorld.c" 2
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 1 3
-# 45 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay_basic.h" 1 3
-# 40 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay_basic.h" 3
+# 4 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\HelloWorld\\Build\\HelloWorld.c" 2
+# 1 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\ToolChain\\AvrLib\\include/RegisterAccess.h" 1
+# 5 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\HelloWorld\\Build\\HelloWorld.c" 2
 
-# 40 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay_basic.h" 3
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 1 3
+# 45 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay_basic.h" 1 3
+# 40 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay_basic.h" 3
+
+# 40 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay_basic.h" 3
 static __inline__ void _delay_loop_1(uint8_t __count) __attribute__((__always_inline__));
 static __inline__ void _delay_loop_2(uint16_t __count) __attribute__((__always_inline__));
-# 80 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay_basic.h" 3
+# 80 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay_basic.h" 3
 void
 _delay_loop_1(uint8_t __count)
 {
@@ -322,7 +443,7 @@ _delay_loop_1(uint8_t __count)
   : "0" (__count)
  );
 }
-# 102 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay_basic.h" 3
+# 102 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay_basic.h" 3
 void
 _delay_loop_2(uint16_t __count)
 {
@@ -333,9 +454,9 @@ _delay_loop_2(uint16_t __count)
   : "0" (__count)
  );
 }
-# 46 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 2 3
-# 1 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 1 3
-# 127 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
+# 46 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 2 3
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 1 3
+# 127 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
 extern double cos(double __x) __attribute__((__const__));
 
 
@@ -363,7 +484,7 @@ extern double fabs(double __x) __attribute__((__const__));
 
 
 extern double fmod(double __x, double __y) __attribute__((__const__));
-# 168 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
+# 168 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
 extern double modf(double __x, double *__iptr);
 
 
@@ -381,7 +502,7 @@ extern float sqrtf (float) __attribute__((__const__));
 
 
 extern double cbrt(double __x) __attribute__((__const__));
-# 195 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
+# 195 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
 extern double hypot (double __x, double __y) __attribute__((__const__));
 
 
@@ -405,7 +526,7 @@ extern double floor(double __x) __attribute__((__const__));
 
 
 extern double ceil(double __x) __attribute__((__const__));
-# 235 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
+# 235 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
 extern double frexp(double __x, int *__pexp);
 
 
@@ -462,7 +583,7 @@ extern double asin(double __x) __attribute__((__const__));
 
 
 extern double atan(double __x) __attribute__((__const__));
-# 299 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
+# 299 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
 extern double atan2(double __y, double __x) __attribute__((__const__));
 
 
@@ -489,7 +610,7 @@ extern double pow(double __x, double __y) __attribute__((__const__));
 
 
 extern int isnan(double __x) __attribute__((__const__));
-# 334 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
+# 334 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
 extern int isinf(double __x) __attribute__((__const__));
 
 
@@ -524,7 +645,7 @@ __attribute__((__const__)) static inline double copysign (double __x, double __y
  : "0" (__x), "r" (__y) );
     return __x;
 }
-# 377 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
+# 377 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
 extern int signbit (double __x) __attribute__((__const__));
 
 
@@ -533,7 +654,7 @@ extern int signbit (double __x) __attribute__((__const__));
 
 
 extern double fdim (double __x, double __y) __attribute__((__const__));
-# 393 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
+# 393 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
 extern double fma (double __x, double __y, double __z) __attribute__((__const__));
 
 
@@ -558,17 +679,17 @@ extern double fmin (double __x, double __y) __attribute__((__const__));
 
 
 extern double trunc (double __x) __attribute__((__const__));
-# 427 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
+# 427 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
 extern double round (double __x) __attribute__((__const__));
-# 440 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
+# 440 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
 extern long lround (double __x) __attribute__((__const__));
-# 454 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
+# 454 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\math.h" 3
 extern long lrint (double __x) __attribute__((__const__));
-# 47 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 2 3
-# 86 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
+# 47 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 2 3
+# 86 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
 static __inline__ void _delay_us(double __us) __attribute__((__always_inline__));
 static __inline__ void _delay_ms(double __ms) __attribute__((__always_inline__));
-# 165 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
+# 165 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
 void
 _delay_ms(double __ms)
 {
@@ -578,15 +699,19 @@ _delay_ms(double __ms)
 
  uint32_t __ticks_dc;
  extern void __builtin_avr_delay_cycles(unsigned long);
- __tmp = ((1000000UL) / 1e3) * __ms;
-# 184 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
+ __tmp = ((
+# 174 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h"
+          16000000
+# 174 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
+               ) / 1e3) * __ms;
+# 184 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
   __ticks_dc = (uint32_t)(ceil(fabs(__tmp)));
 
 
  __builtin_avr_delay_cycles(__ticks_dc);
-# 210 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
+# 210 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
 }
-# 254 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
+# 254 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
 void
 _delay_us(double __us)
 {
@@ -596,32 +721,38 @@ _delay_us(double __us)
 
  uint32_t __ticks_dc;
  extern void __builtin_avr_delay_cycles(unsigned long);
- __tmp = ((1000000UL) / 1e6) * __us;
-# 273 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
+ __tmp = ((
+# 263 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h"
+          16000000
+# 263 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
+               ) / 1e6) * __us;
+# 273 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
   __ticks_dc = (uint32_t)(ceil(fabs(__tmp)));
 
 
  __builtin_avr_delay_cycles(__ticks_dc);
-# 299 "d:\\gibz\\4.semester\\m242\\avr\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
+# 299 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\util\\delay.h" 3
 }
-# 4 "D:\\GIBZ\\4.Semester\\M242\\prj\\helloworld\\Build\\HelloWorld.c" 2
+# 7 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\HelloWorld\\Build\\HelloWorld.c" 2
+
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\interrupt.h" 1 3
+# 38 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\interrupt.h" 3
+# 1 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\io.h" 1 3
+# 39 "d:\\gibz\\4.semester\\m242\\m242_uebungsprojekte\\toolchain\\avr8-gnu-toolchain-win32_x86\\avr\\include\\avr\\interrupt.h" 2 3
+# 9 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\HelloWorld\\Build\\HelloWorld.c" 2
 
 
-
-
-# 7 "D:\\GIBZ\\4.Semester\\M242\\prj\\helloworld\\Build\\HelloWorld.c"
+# 10 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\HelloWorld\\Build\\HelloWorld.c"
 int main(void)
 {
- Usart_Init();
+ Usart_Init(250000);
 
-
- uint8_t i = 10;
- for (; i < 20; i++)
+ while (True)
  {
-  Usart_Trace1(1,(uint8_t)((uint8_t)i));
-  Usart_Trace3(2,(uint8_t)((uint8_t)i), (uint8_t)((uint16_t)(i*2)>>8),(uint8_t)((uint8_t)i*2));
-  Usart_Trace3(3,(uint8_t)((uint8_t)i), (uint8_t)((uint16_t)(i * i)>>8),(uint8_t)((uint8_t)i * i));
+
+  Usart_Trace0(1);
   _delay_ms(1000);
  }
  return 0;
+# 39 "D:\\GIBZ\\4.Semester\\M242\\M242_Uebungsprojekte\\HelloWorld\\Build\\HelloWorld.c"
 }
