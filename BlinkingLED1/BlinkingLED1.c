@@ -11,12 +11,13 @@ int main()
 {
     Usart_Init(250000);
     TRACE("Blinking LED");
-    bool ledOn = False;
-    SetRegister(PortB.DDR, (PIN_3, DdrOutput), (PIN_4, DdrOutput), (PIN_5, DdrOutput));
+    Bool ledOn = False;
+    SetRegister(PortB.DDR, (PIN_3, DdrOutput), (PIN_4, DdrOutput), (PIN_5, DdrInput));
     SetRegister(PortB.PORT, (PIN_3, ledOn), (PIN_4, 0));
     while (True) {
         ledOn = !ledOn;
         UpdateRegister(PortB.PORT, (PIN_3, ledOn));
+		_delay_ms(1000);
     }
     return 0;
 }
